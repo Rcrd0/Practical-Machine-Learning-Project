@@ -1,4 +1,4 @@
-# Practical-Machine-Learning-Project-Quantified-Data_Analysis
+# Practical Machine Learning Project Quantified Data Analysis
 
 ## Assignment
 
